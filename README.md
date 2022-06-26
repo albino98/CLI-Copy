@@ -3,6 +3,8 @@ A command line program to copy files and folders according to Xml configuration 
 
 A cli version of [Deploy-Helper](https://github.com/albino98/deploy-helper) .
 
+The program also backs up the destination folder before copying.
+
 ## Usage
 
 1. Clone repository or download files into a folder.

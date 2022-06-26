@@ -16,7 +16,7 @@ A cli version of [Deploy-Helper](https://github.com/albino98/deploy-helper) .
 <xml>
 	<deploys>
 		<deploy name="testFile">
-			<sourceFilePath>/home/cartella</sourceFilePath>
+			<sourceFilePath>/home/folder</sourceFilePath>
 			<sourceFilePath>/home/testFile.txt</sourceFilePath>
 			
 			<destinationPath>/home/destination</destinationPath>

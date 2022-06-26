@@ -42,7 +42,7 @@ A cli version of [Deploy-Helper](https://github.com/albino98/deploy-helper) .
     
   :warning: Save the xml file with the same name as the deploy attribute. Example:
   
-  ~~~
+  ~~~ xml
   <deploy name="testFile">
    ~~~
    

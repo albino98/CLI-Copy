@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
 # CLI-Copy
 A command line program to copy files and folders according to Xml configuration files.
 

@@ -1,0 +1,11 @@
+<xml>
+	<deploys>
+		<deploy name="testFile">
+			<sourceFilePath>/home/folder</sourceFilePath>
+			<sourceFilePath>/home/testFile.txt</sourceFilePath>
+			
+			<destinationPath>/home/destination</destinationPath>
+			<backupPath>/home/backup</backupPath>
+		</deploy>
+	</deploys>
+</xml>

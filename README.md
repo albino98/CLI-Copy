@@ -38,6 +38,12 @@ The program also backs up the destination folder before copying.
  python3 main.py -d <xmlFileName>
 ~~~
 
+or
+
+~~~
+ py main.py -d <xmlFileName>
+~~~
+
    example:
 
 ~~~
